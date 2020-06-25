@@ -1,4 +1,3 @@
 <?php
-
-echo 'welcome to my first php file on github';
+echo 'welcome to my second php file on github';
 ?>
